@@ -36,9 +36,9 @@
 
 ## 💫 Tech Stack
 
-*(aka stuff I use)*
+*(stuff I use)*
 
-<img src="https://skillicons.dev/icons?i=c#,cpp,js,ts,react,nodejs,git,github,figma,qt vscode&perline=12" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=cs,js,ts,react,nodejs,git,github,figma,qt,vscode&perline=12" alt="Tech stack" />
 
 ---
 
