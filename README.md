@@ -38,7 +38,7 @@
 
 *(aka stuff I use)*
 
-<img src="https://skillicons.dev/icons?i=csharp,cpp,js,ts,react,nodejs,git,github,figma,qt vscode&perline=12" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=c#,cpp,js,ts,react,nodejs,git,github,figma,qt vscode&perline=12" alt="Tech stack" />
 
 ---
 
