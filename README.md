@@ -37,10 +37,3 @@
 </p>
 
 ---
-
-## 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| [project-one](https://github.com/nicoe64/project-one) | What it does in a few words |
-| [project-two](https://github.com/nicoe64/project-two) | What it does in a few words |
