@@ -1,16 +1,4 @@
-<h1 align="center">Hi there, I'm Nico 👋</h1>
-
-<p align="center">
-  Short one-line intro: what you do and what you're passionate about.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nicoe64&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://wakatime.com/@YOUR-WAKATIME-USERNAME">
-    <img src="https://wakatime.com/badge/user/YOUR-WAKATIME-UUID.svg" alt="WakaTime" />
-  </a>
-</p>
-
+p align="center"> <a href="https://github.com/nicoe64"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Nico+%F0%9F%91%8B;I+build+things+with+code;Currently+learning+something+new" alt="Typing animation" /> </a> </p> <p align="center"> Short one-line intro: what you do and what you're passionate about. </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=nicoe64&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 ---
 
 ## 👤 Info
