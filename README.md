@@ -29,9 +29,8 @@
 
 ### 📧 Where to find me
 
-[![Discord](https://img.shields.io/badge/Discord-YOUR_NAME-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR-DISCORD-ID)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nico.ehle@gmx.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-ehle-3213533b3/)
 
 ---
 
@@ -39,7 +38,7 @@
 
 *(aka stuff I use)*
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,docker,linux,vscode&perline=12" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=csharp,cpp,js,ts,react,nodejs,git,github,figma,qt vscode&perline=12" alt="Tech stack" />
 
 ---
 
