@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Short one-line intro: what you do and what you're passionate about.
+  Frontend Developer exploring UX Design
 </p>
 
 <p align="center">
