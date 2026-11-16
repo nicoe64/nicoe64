@@ -14,19 +14,6 @@
 
 ---
 
-## 👤 Info
-
-<details>
-<summary><b>📘 About Me</b></summary>
-<br>
-
-- 🔭 Currently working on: ...
-- 🌱 Currently learning: ...
-- 💬 Ask me about: ...
-- ⚡ Fun fact: ...
-
-</details>
-
 ### 📧 Where to find me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nico.ehle@gmx.de)
